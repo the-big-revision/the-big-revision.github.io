@@ -66,7 +66,11 @@
                 <a class="f6 fw4 hover-white no-underline dn dib-ns pv2 ph3" href="/">Pricing</a>
                 <a class="f6 fw4 hover-white no-underline dn dib-l pv2 ph3" href="/">About</a>
                 <a class="f6 fw4 hover-white no-underline dn dib-l pv2 ph3" href="/">Careers</a>
-                <a class="f6 fw4 hover-white no-underline dib ml2 pv2 ph3 ba" href="/">Sign Up</a>
+                <NuxtLink
+                    tag="span"
+                    class="f6 fw4 hover-white no-underline dib ml2 pv2 ph3 ba"
+                    to="/"
+                >Sign Up</NuxtLink>
             </div>
         </nav>
     </header>

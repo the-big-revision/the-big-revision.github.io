@@ -2,6 +2,6 @@ import { defineNuxtConfig } from 'nuxt3'
 
 // https://v3.nuxtjs.org/docs/directory-structure/nuxt.config
 export default defineNuxtConfig({
-    css: ['tachyons/css/tachyons.css'],
-    
+    css: ['tachyons/css/tachyons.min.css'],
+
 })

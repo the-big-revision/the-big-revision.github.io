@@ -2,7 +2,7 @@
     <div class="vh-100 sans-serif">
         <aside
             class="fl vh-100 w-third-ns dn dib-ns tc cover"
-            style="background:url('assets/joanna-kosinska-1_CMoFsPfso-unsplash.jpg') no-repeat left"
+            style="background:url('public/joanna-kosinska-1_CMoFsPfso-unsplash.jpg') no-repeat left"
         ></aside>
         <main class="dt h-100 w-100 w-two-thirds-ns pa4 bg-washed-yellow">
             <div class="dtc v-mid">
