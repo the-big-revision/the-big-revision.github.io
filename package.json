@@ -7,7 +7,7 @@
     "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
-    "nuxt3": "^3.0.0-27383920.81ee59c"
+    "nuxt3": "^3.0.0-27385496.7a1cf62"
   },
   "dependencies": {
     "tachyons": "^4.12.0"
