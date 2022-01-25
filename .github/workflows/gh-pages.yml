@@ -28,7 +28,6 @@ jobs:
             ${{ runner.os }}-node-
 
       - run: npm run ci
-      - run: npm test
       - run: npm run build
 
       - name: deploy
